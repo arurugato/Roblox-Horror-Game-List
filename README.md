@@ -1,4 +1,4 @@
-# cock
+# view raw file for easier reading
 Multi
 • Vigor https://www.roblox.com/games/8126484422/Ch-2-Demo-Vigor-HORROR
 • Frigid Dusk https://www.roblox.com/games/6915976310/Horror-Frigid-Dusk
