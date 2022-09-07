@@ -13,6 +13,7 @@ Multi
 • Confinement https://www.roblox.com/games/6733840536/CONFINEMENT
 • Boundless Rooms https://www.roblox.com/games/7253940633/Boundless-Rooms
 • Rooms https://www.roblox.com/games/5076734934/Rooms
+• Lost Rooms https://www.roblox.com/games/9431770682/Lost-Rooms
 • AGONY https://www.roblox.com/games/9727253819/AGONY-Horror
 • DOORS https://www.roblox.com/games/6516141723/DOORS
 • Apple Pie https://www.roblox.com/games/6323827195/Apple-pie
