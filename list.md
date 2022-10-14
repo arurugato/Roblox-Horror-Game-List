@@ -4,6 +4,9 @@ Multi
 • Frigid Dusk https://www.roblox.com/games/6915976310/Horror-Frigid-Dusk
 • Apparition https://www.roblox.com/games/8361856560/Apparition-Horror
 • ENTOMBED https://www.roblox.com/games/2766741797/ENTOMBED-HORROR
+• The Tall Man https://www.roblox.com/games/9115412844/The-Tall-Man-CHAPTER-I
+• Disturbance https://www.roblox.com/games/10282236023/Horror-Disturbance
+• The Black Death https://www.roblox.com/games/7158315098/The-Black-Shadow
 • ETERNITY https://www.roblox.com/games/10165194740/ETERNITY-Horror
 • Mocker https://www.roblox.com/games/8511131723/Mocker-HORROR
 • The Missing https://www.roblox.com/games/1887701960/The-Missing
@@ -87,3 +90,5 @@ Singleplayer
 • ImAfraid https://www.roblox.com/games/4904793723/ImAfraid-A-Robloxian-Nightmare
 • Syllogomania https://www.roblox.com/games/7104967366/SYLLOGOMANIA
 • Static https://www.roblox.com/games/2180834455/Static
+
+Make issue if there are any duplicate games listed here
