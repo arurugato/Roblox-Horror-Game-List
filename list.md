@@ -1,7 +1,8 @@
 # view raw file for easier reading
+* = games I have played/remembered playing and would recommend
 Multi
 • Vigor https://www.roblox.com/games/8126484422/Ch-2-Demo-Vigor-HORROR
-• Frigid Dusk https://www.roblox.com/games/6915976310/Horror-Frigid-Dusk
+• (*)Frigid Dusk https://www.roblox.com/games/6915976310/Horror-Frigid-Dusk
 • Apparition https://www.roblox.com/games/8361856560/Apparition-Horror
 • ENTOMBED https://www.roblox.com/games/2766741797/ENTOMBED-HORROR
 • The Tall Man https://www.roblox.com/games/9115412844/The-Tall-Man-CHAPTER-I
@@ -15,8 +16,8 @@ Multi
 • Good Dreams https://www.roblox.com/games/7818817076/Good-Dreams
 • Confinement https://www.roblox.com/games/6733840536/CONFINEMENT
 • Boundless Rooms https://www.roblox.com/games/7253940633/Boundless-Rooms
-• Rooms https://www.roblox.com/games/5076734934/Rooms
-• Lost Rooms https://www.roblox.com/games/9431770682/Lost-Rooms
+• (*)Rooms https://www.roblox.com/games/5076734934/Rooms
+• (*)Lost Rooms https://www.roblox.com/games/9431770682/Lost-Rooms
 • AGONY https://www.roblox.com/games/9727253819/AGONY-Horror
 • DOORS https://www.roblox.com/games/6516141723/DOORS
 • Apple Pie https://www.roblox.com/games/6323827195/Apple-pie
@@ -65,11 +66,12 @@ Multi
 • Minus Elevation https://www.roblox.com/games/7836133734/Minus-Elevation
 • Minus Decendance https://www.roblox.com/games/5876616139/Minus-Decendance
 • Mannequins https://www.roblox.com/games/5335380979/Mannequins
-• The Darkness Beyond https://www.roblox.com/games/6448665553/The-Darkness-Beyond
+• (*)The Darkness Beyond https://www.roblox.com/games/6448665553/The-Darkness-Beyond
 • Nyctophobia https://www.roblox.com/games/4904677466/Nyctophobia-ALPHA
 • Hysteria 
 
 Singleplayer
+• (*)my eyes deceive https://www.roblox.com/games/14707486180/my-eyes-deceive
 • find markiplier https://www.roblox.com/games/7454684292/find-markiplier
 • Beyond Darkness https://www.roblox.com/games/6978742470/Beyond-Darkness
 • Seek Quill https://www.roblox.com/games/3716764153/Seek-Quill
@@ -87,7 +89,7 @@ Singleplayer
 • Apartment Room 67 https://www.roblox.com/games/6763591207/Apartment-Room-67
 • Before 3 AM https://www.roblox.com/games/3543648904/Before-3-AM
 • Night Shift https://www.roblox.com/games/6690747813/The-Night-Shift
-• ImAfraid https://www.roblox.com/games/4904793723/ImAfraid-A-Robloxian-Nightmare
+• (*)ImAfraid https://www.roblox.com/games/4904793723/ImAfraid-A-Robloxian-Nightmare (note: havent played but this is a legendary game ported to roblox)
 • Syllogomania https://www.roblox.com/games/7104967366/SYLLOGOMANIA
 • Static https://www.roblox.com/games/2180834455/Static
 
