@@ -1,7 +1,7 @@
 # view raw file for easier reading
 * = games I have played/remembered playing and would recommend
 Multi
-• (*)PETAPETA https://www.roblox.com/games/14451515684/PETAPETA-0-1-1 #5player
+• (*)PETAPETA https://www.roblox.com/games/14451515684/PETAPETA-0-1-1 #5player maximum
 • Vigor https://www.roblox.com/games/8126484422/Ch-2-Demo-Vigor-HORROR
 • (*)Frigid Dusk https://www.roblox.com/games/6915976310/Horror-Frigid-Dusk
 • Apparition https://www.roblox.com/games/8361856560/Apparition-Horror
