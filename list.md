@@ -74,6 +74,8 @@ Multi
 
 Singleplayer
 • (*)my eyes deceive https://www.roblox.com/games/14707486180/my-eyes-deceive
+• (*)Five Nights at Marcus 1 REMASTERED https://www.roblox.com/games/13442829812/Five-Nights-at-Marcus-1-REMASTERED
+• (*)Far From Land https://www.roblox.com/games/12409654364/Far-From-Land
 • find markiplier https://www.roblox.com/games/7454684292/find-markiplier
 • Beyond Darkness https://www.roblox.com/games/6978742470/Beyond-Darkness
 • Seek Quill https://www.roblox.com/games/3716764153/Seek-Quill
