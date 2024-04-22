@@ -1,5 +1,7 @@
 # view raw file for easier reading
 # list is due for revamp 
+sheet link
+alternate link (open & google)
 * = games I have played/remembered playing and would recommend
 Multi
 • (*)PETAPETA https://www.roblox.com/games/14451515684/PETAPETA-0-1-1 #5player maximum
