@@ -1,21 +1,10 @@
 # view raw file for easier reading
 * = games I have played/remembered playing and would recommend
 Multi
-• (*)PETAPETA https://www.roblox.com/games/14451515684/PETAPETA-0-1-1 #5player maximum
-• Vigor https://www.roblox.com/games/8126484422/Ch-2-Demo-Vigor-HORROR
-• The Long Drive https://www.roblox.com/games/15148247111/The-Long-Drive
-• (*)Frigid Dusk https://www.roblox.com/games/6915976310/Horror-Frigid-Dusk
-• (*)TRAVERSAL 2player https://www.roblox.com/games/9524634157/TRAVERSAL
-• (*)CONFINEMENT 3player https://www.roblox.com/games/6733840536/CONFINEMENT
-• (*)CONTAINMENT 3player https://www.roblox.com/games/6242434900/CONTAINMENT
 • Apparition https://www.roblox.com/games/8361856560/Apparition-Horror
-• ENTOMBED https://www.roblox.com/games/2766741797/ENTOMBED-HORROR
-• The Tall Man https://www.roblox.com/games/9115412844/The-Tall-Man-CHAPTER-I
 • Disturbance https://www.roblox.com/games/10282236023/Horror-Disturbance
-• The Black Death https://www.roblox.com/games/7158315098/The-Black-Shadow
 • ETERNITY https://www.roblox.com/games/10165194740/ETERNITY-Horror
 • Mocker https://www.roblox.com/games/8511131723/Mocker-HORROR
-• The Missing https://www.roblox.com/games/1887701960/The-Missing
 • Brave https://www.roblox.com/games/7132694880/Brave-REVAMPED
 • Doll House https://www.roblox.com/games/8375842726/Dollhouse-BETA
 • Good Dreams https://www.roblox.com/games/7818817076/Good-Dreams
